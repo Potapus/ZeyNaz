@@ -1,0 +1,59 @@
+.top-container{
+    background-color: #EAFDFC;
+    position: relative;
+    padding-top: 100px;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+    
+}
+.top-cloud{
+    position: absolute;
+    top: 70px;
+    right: 150px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+
+}
+.middle-container{
+    background-color:#CEEDC7;
+    position: relative;
+}
+.mountain{
+    position: relative;
+    top: 4px;
+}
+h1{
+    font-size: 562.5%;/* rem(only this size even if there is sth else on body or globally)or 1em=16px=100% 562.5%=5.625em */
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+.bottom-container{
+    background-color: #CEEDC7;
+    padding-bottom: 100px;
+}
+.contact-me{
+    position: relative;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.name{
+    color: #227C70;
+}
+.footer-link{
+    color: #3C6255;
+}
+.btn{
+    color: #3C6255;
+}
+table{
+    margin: auto;
+}
